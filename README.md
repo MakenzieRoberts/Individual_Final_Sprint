@@ -12,7 +12,6 @@
 
    ```
    cd server
-
    ```
 
 2. Next, install dependencies. Enter the command:
