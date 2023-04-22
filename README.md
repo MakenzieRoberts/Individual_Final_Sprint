@@ -6,7 +6,7 @@
 
 # Semester 4 | Final Sprint (Individual Portion)
 
-#### **Connecting to the Server**
+## **Connecting to the Server**
 
 1. To navigate to the main project folder, open the terminal and enter the command:
 
@@ -33,3 +33,11 @@
    ```
 
 5. To stop the server, navigate to your terminal and press `CTRL + C`.
+
+## **Endpoints**
+
+
+| Method      | URI                                                | Query Parameter                                   |
+|:-----------:|:---------------------------------------------------|:--------------------------------------------------|
+|   **GET**   | localhost:3000/treeify                             | ?numbers=1,2,3,4,5                                |
+|   **GET**   | localhost:8080/treeify/logs                        |                                                   |
